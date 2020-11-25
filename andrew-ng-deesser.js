@@ -22,7 +22,7 @@
 waitForKeyElements("video", onVideoLoad);
 
 function onVideoLoad() {
-  document.querySelector("video.vjs-tech").onplay = applyNotchFilter;
+  document.querySelector("video").onplay = applyNotchFilter;
 }
 
 function applyNotchFilter() {
