@@ -5,13 +5,13 @@
 // @description  Removes the annoying high frequency sound in Andrew NG Courses
 // @author       casab
 // @iconurl      https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/2a/6192a04f1311e7ba12057425631cbc/AndrewNg-Headshot.jpg
-// @match        https://www.coursera.org/learn/machine-learning/lecture/*
-// @match        https://www.coursera.org/learn/ai-for-everyone/lecture/*
-// @match        https://www.coursera.org/learn/deep-neural-network/lecture/*
-// @match        https://www.coursera.org/learn/machine-learning-projects/lecture/*
-// @match        https://www.coursera.org/learn/convolutional-neural-networks/lecture/*
-// @match        https://www.coursera.org/learn/nlp-sequence-models/lecture/*
-// @match        https://www.coursera.org/learn/neural-networks-deep-learning/lecture/*
+// @match        https://www.coursera.org/learn/machine-learning/*
+// @match        https://www.coursera.org/learn/ai-for-everyone/*
+// @match        https://www.coursera.org/learn/deep-neural-network/*
+// @match        https://www.coursera.org/learn/machine-learning-projects/*
+// @match        https://www.coursera.org/learn/convolutional-neural-networks/*
+// @match        https://www.coursera.org/learn/nlp-sequence-models/*
+// @match        https://www.coursera.org/learn/neural-networks-deep-learning/*
 // @require      http://code.jquery.com/jquery-3.5.1.min.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 // @updateURL    https://raw.githubusercontent.com/casab/andrew-ng-deesser/main/andrew-ng-deesser.js
